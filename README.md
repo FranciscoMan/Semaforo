@@ -9,8 +9,8 @@ para modular el tiempo de cambio del semaforo.
 * 1 Push Button NA
 * cable
 
-###Esquema logico
+### Esquema logico
 ![imagen](https://github.com/FranciscoMan/Semaforo/blob/master/esquema.jpg "Esquema de conexiones")
 
-##Imagen del prototipo
+### Imagen del prototipo
 ![imagen](https://github.com/FranciscoMan/Semaforo/blob/master/semaforo.jpg "prototipo")
